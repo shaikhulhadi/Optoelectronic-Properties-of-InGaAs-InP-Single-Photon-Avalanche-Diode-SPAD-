@@ -9,8 +9,10 @@ Published experimental work , *Gigahertz-gated InGaAs/InP single-photon detector
 [^2]:Dark count probability and quantum efficiency of avalanche photodiodes for single-photon detection; Y. Kang, H. X. Lu, and Y.-H. Lo
 
 
-## Main Files:
-**commander_final.m** and **Kang/Kang_final.m** simulate final output. This project also content other matlab files relavent to analyze individal informations that were necessary for the research but may not end up in final work[^3].
+## How to run:
+**`commander_final.m`** and **`Kang/Kang_final.m`** simulate final output. Tune relevent semiconductor variable values to simulate intendet semiconductor properties.
+
+This project also content other matlab files relavent to analyze individal informations that were necessary for the research but may not end up in final work[^3].
 [^3]: This additional files are included here to help people who want to use this research work. Those code will help them understand the whole research process and more information that may help them.
 
 
